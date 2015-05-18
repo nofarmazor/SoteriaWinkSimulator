@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: Wink
+Version: 0.1
+Summary: Library for interfacing with Wink devices by Quirky
+Home-page: https://github.com/jso/py-wink
+Author: John S. Otto
+Author-email: me@johnotto.net
+License: MIT
+Description: UNKNOWN
+Keywords: Wink Quirky Nimbus Spotter Porkfolio Pivot Power GeniusEggminder
+Platform: UNKNOWN
